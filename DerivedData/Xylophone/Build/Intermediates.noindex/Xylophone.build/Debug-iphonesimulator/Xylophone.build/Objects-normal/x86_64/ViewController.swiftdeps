@@ -12,19 +12,21 @@ depends-top-level:
 - "AVAudioPlayer"
 - "AssignmentPrecedence"
 - !private "Bundle"
+- "String"
 - !private "StringLiteralType"
 - "UIButton"
 - "UIViewController"
-- !private "UnicodeScalarType"
 - "ViewController"
 depends-member:
 - !private ["So13AVAudioPlayerC", "init"]
 - !private ["So13AVAudioPlayerC", "play"]
 - !private ["So8NSBundleC", "main"]
 - !private ["So8NSBundleC", "url"]
+- !private ["So15CALayerDelegateP", "currentTitle"]
 - !private ["s7CVarArgP", "AVAudioPlayer"]
 - !private ["s7CVarArgP", "Bundle"]
 - ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "currentTitle"]
 - !private ["s7CVarArgP", "init"]
 - !private ["s7CVarArgP", "main"]
 - !private ["s7CVarArgP", "play"]
@@ -35,6 +37,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "AVAudioPlayer"]
 - !private ["s28CustomDebugStringConvertibleP", "Bundle"]
 - ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "currentTitle"]
 - !private ["s28CustomDebugStringConvertibleP", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "main"]
 - !private ["s28CustomDebugStringConvertibleP", "play"]
@@ -45,6 +48,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "AVAudioPlayer"]
 - !private ["s23CustomStringConvertibleP", "Bundle"]
 - ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "currentTitle"]
 - !private ["s23CustomStringConvertibleP", "init"]
 - !private ["s23CustomStringConvertibleP", "main"]
 - !private ["s23CustomStringConvertibleP", "play"]
@@ -55,6 +59,7 @@ depends-member:
 - !private ["SQ", "AVAudioPlayer"]
 - !private ["SQ", "Bundle"]
 - ["SQ", ""]
+- !private ["SQ", "currentTitle"]
 - !private ["SQ", "init"]
 - !private ["SQ", "main"]
 - !private ["SQ", "play"]
@@ -65,6 +70,7 @@ depends-member:
 - !private ["SH", "AVAudioPlayer"]
 - !private ["SH", "Bundle"]
 - ["SH", ""]
+- !private ["SH", "currentTitle"]
 - !private ["SH", "init"]
 - !private ["SH", "main"]
 - !private ["SH", "play"]
@@ -75,6 +81,7 @@ depends-member:
 - !private ["So8NSCodingP", "AVAudioPlayer"]
 - !private ["So8NSCodingP", "Bundle"]
 - ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "currentTitle"]
 - !private ["So8NSCodingP", "init"]
 - !private ["So8NSCodingP", "playSound"]
 - !private ["So8NSCodingP", "player"]
@@ -88,7 +95,9 @@ depends-member:
 - !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
 - ["So8NSObjectC", "AVAudioPlayer"]
 - !private ["So8NSObjectC", "Bundle"]
+- ["So8NSObjectC", "String"]
 - ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "currentTitle"]
 - ["So8NSObjectC", "init"]
 - ["So8NSObjectC", "keyPressed"]
 - !private ["So8NSObjectC", "main"]
@@ -100,6 +109,7 @@ depends-member:
 - !private ["So8NSObjectP", "AVAudioPlayer"]
 - !private ["So8NSObjectP", "Bundle"]
 - ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "currentTitle"]
 - !private ["So8NSObjectP", "init"]
 - !private ["So8NSObjectP", "main"]
 - !private ["So8NSObjectP", "play"]
@@ -107,13 +117,18 @@ depends-member:
 - !private ["So8NSObjectP", "player"]
 - !private ["So8NSObjectP", "url"]
 - !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "currentTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "currentTitle"]
+- !private ["So12UIAppearanceP", "currentTitle"]
 - !private ["So21UIAppearanceContainerP", "AVAudioPlayer"]
 - !private ["So21UIAppearanceContainerP", "Bundle"]
 - ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "currentTitle"]
 - !private ["So21UIAppearanceContainerP", "init"]
 - !private ["So21UIAppearanceContainerP", "playSound"]
 - !private ["So21UIAppearanceContainerP", "player"]
 - !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "currentTitle"]
 - !private ["So18UIContentContainerP", "AVAudioPlayer"]
 - !private ["So18UIContentContainerP", "Bundle"]
 - ["So18UIContentContainerP", ""]
@@ -121,23 +136,33 @@ depends-member:
 - !private ["So18UIContentContainerP", "playSound"]
 - !private ["So18UIContentContainerP", "player"]
 - !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "currentTitle"]
+- !private ["So17UICoordinateSpaceP", "currentTitle"]
+- !private ["So13UIDynamicItemP", "currentTitle"]
 - !private ["So18UIFocusEnvironmentP", "AVAudioPlayer"]
 - !private ["So18UIFocusEnvironmentP", "Bundle"]
 - ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "currentTitle"]
 - !private ["So18UIFocusEnvironmentP", "init"]
 - !private ["So18UIFocusEnvironmentP", "playSound"]
 - !private ["So18UIFocusEnvironmentP", "player"]
 - !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "currentTitle"]
+- !private ["So20UIFocusItemContainerP", "currentTitle"]
+- !private ["So24UILargeContentViewerItemP", "currentTitle"]
 - !private ["So30UIPasteConfigurationSupportingP", "AVAudioPlayer"]
 - !private ["So30UIPasteConfigurationSupportingP", "Bundle"]
 - ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "currentTitle"]
 - !private ["So30UIPasteConfigurationSupportingP", "init"]
 - !private ["So30UIPasteConfigurationSupportingP", "playSound"]
 - !private ["So30UIPasteConfigurationSupportingP", "player"]
 - !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
 - ["So11UIResponderC", "AVAudioPlayer"]
 - !private ["So11UIResponderC", "Bundle"]
+- ["So11UIResponderC", "String"]
 - ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "currentTitle"]
 - ["So11UIResponderC", "init"]
 - ["So11UIResponderC", "keyPressed"]
 - ["So11UIResponderC", "playSound"]
@@ -146,10 +171,12 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "AVAudioPlayer"]
 - !private ["So30UIResponderStandardEditActionsP", "Bundle"]
 - ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "currentTitle"]
 - !private ["So30UIResponderStandardEditActionsP", "init"]
 - !private ["So30UIResponderStandardEditActionsP", "playSound"]
 - !private ["So30UIResponderStandardEditActionsP", "player"]
 - !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "currentTitle"]
 - !private ["So16UIStateRestoringP", "AVAudioPlayer"]
 - !private ["So16UIStateRestoringP", "Bundle"]
 - ["So16UIStateRestoringP", ""]
@@ -160,6 +187,7 @@ depends-member:
 - !private ["So18UITraitEnvironmentP", "AVAudioPlayer"]
 - !private ["So18UITraitEnvironmentP", "Bundle"]
 - ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "currentTitle"]
 - !private ["So18UITraitEnvironmentP", "init"]
 - !private ["So18UITraitEnvironmentP", "playSound"]
 - !private ["So18UITraitEnvironmentP", "player"]
@@ -167,12 +195,15 @@ depends-member:
 - !private ["So23UIUserActivityRestoringP", "AVAudioPlayer"]
 - !private ["So23UIUserActivityRestoringP", "Bundle"]
 - ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "currentTitle"]
 - !private ["So23UIUserActivityRestoringP", "init"]
 - !private ["So23UIUserActivityRestoringP", "playSound"]
 - !private ["So23UIUserActivityRestoringP", "player"]
 - !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "currentTitle"]
 - ["So16UIViewControllerC", "AVAudioPlayer"]
 - !private ["So16UIViewControllerC", "Bundle"]
+- ["So16UIViewControllerC", "String"]
 - ["So16UIViewControllerC", "UIButton"]
 - ["So16UIViewControllerC", ""]
 - ["So16UIViewControllerC", "init"]
@@ -182,6 +213,7 @@ depends-member:
 - ["So16UIViewControllerC", "viewDidLoad"]
 - ["9Xylophone14ViewControllerC", "AVAudioPlayer"]
 - !private ["9Xylophone14ViewControllerC", "Bundle"]
+- ["9Xylophone14ViewControllerC", "String"]
 - ["9Xylophone14ViewControllerC", "UIButton"]
 - ["9Xylophone14ViewControllerC", "deinit"]
 - ["9Xylophone14ViewControllerC", "init"]
@@ -192,6 +224,7 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "AVAudioPlayer"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentTitle"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "play"]
@@ -202,6 +235,7 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AVAudioPlayer"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Bundle"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "currentTitle"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "play"]
@@ -209,9 +243,11 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "player"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "url"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "currentTitle"]
 depends-nominal:
 - !private "So13AVAudioPlayerC"
 - !private "So8NSBundleC"
+- !private "So15CALayerDelegateP"
 - "s7CVarArgP"
 - "s28CustomDebugStringConvertibleP"
 - "s23CustomStringConvertibleP"
@@ -221,19 +257,32 @@ depends-nominal:
 - "So26NSExtensionRequestHandlingP"
 - "So8NSObjectC"
 - "So8NSObjectP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
 - "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
 - "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
 - "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
 - "So30UIPasteConfigurationSupportingP"
 - "So11UIResponderC"
 - "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
 - "So16UIStateRestoringP"
 - "So18UITraitEnvironmentP"
 - "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
 - "So16UIViewControllerC"
 - "9Xylophone14ViewControllerC"
 - "10Foundation27_KeyValueCodingAndObservingP"
 - "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
@@ -290,4 +339,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "6bbae318ff3f404c15d9d0af39a6395d"
+interface-hash: "9725be73ade3ee7fd5f78120e01942e3"

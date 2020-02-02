@@ -40,6 +40,74 @@
 			<key>uniqueIdentifier</key>
 			<string>0626443C-A6A3-4996-987D-F6DB4B3A92DB</string>
 		</dict>
+		<key>264D5BAF-F681-4F5B-98FC-006DC18B3704</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>264D5BAF-F681-4F5B-98FC-006DC18B3704.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Xylophone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Xylophone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Xylophone</string>
+			<key>timeStartedRecording</key>
+			<real>602303959.748932</real>
+			<key>timeStoppedRecording</key>
+			<real>602304098.82645202</real>
+			<key>title</key>
+			<string>Debug Xylophone</string>
+			<key>uniqueIdentifier</key>
+			<string>264D5BAF-F681-4F5B-98FC-006DC18B3704</string>
+		</dict>
+		<key>26FCE81D-E965-48E4-A57C-C01EBA0B46F3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>26FCE81D-E965-48E4-A57C-C01EBA0B46F3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Xylophone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Xylophone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Xylophone</string>
+			<key>timeStartedRecording</key>
+			<real>602304198.906389</real>
+			<key>timeStoppedRecording</key>
+			<real>602304259.42814505</real>
+			<key>title</key>
+			<string>Debug Xylophone</string>
+			<key>uniqueIdentifier</key>
+			<string>26FCE81D-E965-48E4-A57C-C01EBA0B46F3</string>
+		</dict>
 		<key>4C37557A-904B-4A5D-99F3-561870AA9CD1</key>
 		<dict>
 			<key>className</key>
@@ -142,6 +210,74 @@
 			<key>uniqueIdentifier</key>
 			<string>7B66DF8E-953F-467D-9BD4-CE14E87CD52E</string>
 		</dict>
+		<key>9A03835E-8854-4D2B-B154-9A62650A7E90</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9A03835E-8854-4D2B-B154-9A62650A7E90.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Xylophone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Xylophone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Xylophone</string>
+			<key>timeStartedRecording</key>
+			<real>602304104.14196897</real>
+			<key>timeStoppedRecording</key>
+			<real>602304196.09871101</real>
+			<key>title</key>
+			<string>Debug Xylophone</string>
+			<key>uniqueIdentifier</key>
+			<string>9A03835E-8854-4D2B-B154-9A62650A7E90</string>
+		</dict>
+		<key>B8A4D253-A2A4-4BBC-8310-2325B543C35A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B8A4D253-A2A4-4BBC-8310-2325B543C35A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Xylophone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Xylophone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Xylophone</string>
+			<key>timeStartedRecording</key>
+			<real>602303595.69021702</real>
+			<key>timeStoppedRecording</key>
+			<real>602303954.26782095</real>
+			<key>title</key>
+			<string>Debug Xylophone</string>
+			<key>uniqueIdentifier</key>
+			<string>B8A4D253-A2A4-4BBC-8310-2325B543C35A</string>
+		</dict>
 		<key>C6C93512-5E55-4CF7-B91C-6534012C1D4B</key>
 		<dict>
 			<key>className</key>
@@ -175,6 +311,40 @@
 			<string>Debug Xylophone</string>
 			<key>uniqueIdentifier</key>
 			<string>C6C93512-5E55-4CF7-B91C-6534012C1D4B</string>
+		</dict>
+		<key>DB714018-FEC2-4E86-A70C-CA0283057CC7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DB714018-FEC2-4E86-A70C-CA0283057CC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Xylophone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Xylophone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Xylophone</string>
+			<key>timeStartedRecording</key>
+			<real>602304261.25419199</real>
+			<key>timeStoppedRecording</key>
+			<real>602304397.64109802</real>
+			<key>title</key>
+			<string>Debug Xylophone</string>
+			<key>uniqueIdentifier</key>
+			<string>DB714018-FEC2-4E86-A70C-CA0283057CC7</string>
 		</dict>
 		<key>F280B46C-F601-4759-9FEB-8D6D4ED049C2</key>
 		<dict>
