@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E2823664-3744-4AFA-9682-8C33DA115A47</key>
+		<key>1D6D6EE2-C63B-4F2D-8EBE-88C3308162F4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>E2823664-3744-4AFA-9682-8C33DA115A47.xcactivitylog</string>
+			<string>1D6D6EE2-C63B-4F2D-8EBE-88C3308162F4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Xylophone-guzmmgrdvortzchefbckonnmjbaz</string>
 			<key>timeStartedRecording</key>
-			<real>602304443.97062504</real>
+			<real>602326331.28552198</real>
 			<key>timeStoppedRecording</key>
-			<real>602304445.10127699</real>
+			<real>602326332.52982605</real>
 			<key>title</key>
 			<string>Build target Xylophone</string>
 			<key>uniqueIdentifier</key>
-			<string>E2823664-3744-4AFA-9682-8C33DA115A47</string>
+			<string>1D6D6EE2-C63B-4F2D-8EBE-88C3308162F4</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
